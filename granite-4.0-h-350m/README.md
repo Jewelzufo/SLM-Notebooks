@@ -382,3 +382,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This README provides a comprehensive overview. For executable code and detailed implementations, refer to the original Colab notebook: `granite_350m_json_classification_colab_v2.ipynb`.*
+
+[Notebook](https://github.com/Jewelzufo/SLM-Notebooks/blob/main/granite-4.0-h-350m/granite_350m_json_classification_colab_v2.ipynb)
